@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\JohanBot.Properties.Resources.resources
+obj\Debug\JohanBot.csproj.GenerateResource.Cache
+bin\Debug\JohanBot.exe
+bin\Debug\JohanBot.pdb
+bin\Debug\Bot.pdb
+obj\Debug\JohanBot.exe
+obj\Debug\JohanBot.pdb
+obj\Debug\JohanBot.Principal.resources
+obj\Debug\JohanBot.DPendientes.resources
+obj\Debug\JohanBot.Configuracion.resources
+bin\Debug\Bot.dll
+bin\Debug\JohanBot.exe.config
+obj\Debug\JohanBot.DNewCine.resources

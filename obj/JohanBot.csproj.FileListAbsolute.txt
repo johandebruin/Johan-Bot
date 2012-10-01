@@ -1,0 +1,14 @@
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\bin\Debug\JohanBot.exe.config
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\obj\Debug\JohanBot.exe
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\obj\Debug\JohanBot.pdb
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\bin\Debug\JohanBot.exe
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\bin\Debug\JohanBot.pdb
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\bin\Debug\Bot.dll
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\bin\Debug\Bot.pdb
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\obj\Debug\JohanBot.Configuracion.resources
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\obj\Debug\JohanBot.DNewCine.resources
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\obj\Debug\JohanBot.DPendientes.resources
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\obj\Debug\JohanBot.Principal.resources
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\obj\Debug\JohanBot.Properties.Resources.resources
+D:\Documents and Settings\Ususario\Mis documentos\Visual Studio 2005\Projects\JohanBot\obj\Debug\JohanBot.csproj.GenerateResource.Cache
